@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.mycompany.placesnearme.Activity3">
+
+    <item android:id="@+id/action_Findme"
+        android:orderInCategory="100"
+        android:title="@string/action_Findme"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_Int" android:title="@string/FindToilet"
+        android:orderInCategory="200" app:showAsAction="ifRoom" />
+</menu>

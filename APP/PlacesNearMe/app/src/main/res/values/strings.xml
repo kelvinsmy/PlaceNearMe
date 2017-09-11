@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Places Near Me</string>
+    <string name="NewButton1">Location Type</string>
+    <string name="NewButton2">My Favorite</string>
+    <string name="NewButton3">Language</string>
+    <string name="button_museum">Toilet</string>
+    <string name="button_restaurant">Restaurant</string>
+    <string name="button_sportstadium">Sport Stadium</string>
+    <string name="button_theatre">Theatre</string>
+    <string name="button_transportation">Transportation</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_Findme">Find me</string>
+    <string name="title_activity_activity3">Map</string>
+
+    <color name="myColor">#ff60abb6</color>
+    <string name="FindToilet">Update Toilet</string>
+    <string name="LocationType">Location Type</string>
+    <string name="TextViewButton">Text</string>
+    <string name="title_activity_activity4">Activity4</string>
+    <string name="hello_world">Loading!(Takes time if all toilet)</string>
+
+</resources>
